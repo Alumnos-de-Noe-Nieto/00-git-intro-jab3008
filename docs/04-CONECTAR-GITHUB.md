@@ -222,11 +222,11 @@ Sube tu rama `main` a GitHub.
   origin  https://github.com/TuUsuario/TuRepo.git (fetch)
   origin  https://github.com/TuUsuario/TuRepo.git (push)
   ```
-- [ ] **Verificación Paso 2:**
+- [X] **Verificación Paso 2:**
   - Ve a GitHub.com y abre tu repositorio
   - Deberías VER tu archivo README.md
   - En "history" o "commits" deberías ver tu commit
-- [ ] Si cumples AMBAS verificaciones → ✅ Marca este checkpoint
+- [X] Si cumples AMBAS verificaciones → ✅ Marca este checkpoint
 
 **¡Felicidades! Git local está conectado con GitHub. Ahora puedes colaborar.**
 
