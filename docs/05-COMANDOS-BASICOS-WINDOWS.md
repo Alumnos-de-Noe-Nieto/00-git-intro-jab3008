@@ -443,58 +443,58 @@ Completa los siguientes checkpoints antes de continuar:
 
 ### Checkpoint 1: Verificación Inicial ✅
 
-- [X] Instalé Git correctamente (visto en documento 01)
-- [X] Ejecuté `git --version` y funcionó
-- [X] Configuré mi nombre y email con `git config`
+- [x] Instalé Git correctamente (visto en documento 01)
+- [x] Ejecuté `git --version` y funcionó
+- [x] Configuré mi nombre y email con `git config`
 
 ### Checkpoint 2: Primer Repositorio ✅
 
-- [X] Creé una carpeta llamada `MiProyectoGit`
-- [X] Entré a esa carpeta con `cd MiProyectoGit`
-- [X] Ejecuté `git init`
-- [X] Verifiqué que existe la carpeta `.git`
+- [x] Creé una carpeta llamada `MiProyectoGit`
+- [x] Entré a esa carpeta con `cd MiProyectoGit`
+- [x] Ejecuté `git init`
+- [x] Verifiqué que existe la carpeta `.git`
 
 ### Checkpoint 3: Primer Commit Exitoso ✅
 
-- [X] Creé un archivo `main.py` con contenido
-- [X] Ejecuté `git add main.py`
-- [X] Ejecuté `git commit -m "Crear archivo principal con hola mundo"`
-- [X] Vi el mensaje de confirmación del commit
+- [x] Creé un archivo `main.py` con contenido
+- [x] Ejecuté `git add main.py`
+- [x] Ejecuté `git commit -m "Crear archivo principal con hola mundo"`
+- [x] Vi el mensaje de confirmación del commit
 
 ### Checkpoint 4: Commits Múltiples ✅
 
-- [X] Ejecuté `git status` y entendí qué significa
-- [X] Ejecuté `git add` en múltiples ocasiones
-- [X] Hice al menos 2 commits con buenos mensajes
-- [X] Ejecuté `git log --oneline` y vi mi historial
+- [x] Ejecuté `git status` y entendí qué significa
+- [x] Ejecuté `git add` en múltiples ocasiones
+- [x] Hice al menos 2 commits con buenos mensajes
+- [x] Ejecuté `git log --oneline` y vi mi historial
 
 ### Checkpoint 5: Conceptos de Equipo ✅
 
-- [X] Entiendo qué es `git push`
-- [X] Entiendo qué es `git pull`
-- [X] Sé cuándo usar cada uno
-- [X] Comprendo cómo Git sincroniza código entre personas
+- [x] Entiendo qué es `git push`
+- [x] Entiendo qué es `git pull`
+- [x] Sé cuándo usar cada uno
+- [x] Comprendo cómo Git sincroniza código entre personas
 
 ### Checkpoint 6: Windows-Específicas ✅
 
-- [X] Entiendo cómo usar comillas en rutas con espacios
-- [X] Sé que Windows es sensible a mayúsculas en Git
-- [X] Configuré `core.autocrlf` si es necesario
-- [X] Sé dónde buscar ayuda si algo falla
+- [x] Entiendo cómo usar comillas en rutas con espacios
+- [x] Sé que Windows es sensible a mayúsculas en Git
+- [x] Configuré `core.autocrlf` si es necesario
+- [x] Sé dónde buscar ayuda si algo falla
 
 ### Checkpoint 7: Problemas Comunes Resueltos ✅
 
-- [X] Puedo resolver "git no reconoce el comando"
-- [X] Sé qué hacer si tengo "Permission denied"
-- [X] Entiendo "fatal: not a git repository"
-- [X] Puedo arreglarlo si algo sale mal
+- [x] Puedo resolver "git no reconoce el comando"
+- [x] Sé qué hacer si tengo "Permission denied"
+- [x] Entiendo "fatal: not a git repository"
+- [x] Puedo arreglarlo si algo sale mal
 
 ### Checkpoint 8: Ejercicio Completado ✅
 
-- [X] Completé el ejercicio práctico
-- [X] Vi 2 commits en `git log --oneline`
-- [X] Entiendo qué es un commit
-- [X] Puedo crear y ver un repositorio
+- [x] Completé el ejercicio práctico
+- [x] Vi 2 commits en `git log --oneline`
+- [x] Entiendo qué es un commit
+- [x] Puedo crear y ver un repositorio
 
 ---
 
