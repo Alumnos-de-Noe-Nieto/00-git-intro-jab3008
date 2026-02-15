@@ -83,9 +83,9 @@ Lo más importante que aprendí de Git es...
 ---
 ## Repositorio de ejercicios
 
-**Nombre del repositorio en GitHub:** [Pon aquí el nombre exacto]
+**Nombre del repositorio en GitHub:** Mi-Proyecto-Practica
 
-**Enlace público al repositorio:** [Pon aquí el enlace, por ejemplo: https://github.com/TuUsuario/Mi-Proyecto-Practica]
+**Enlace público al repositorio:** https://github.com/jab3008/Mi-Proyecto-Practica.git
 
 > **Recuerda:** Para aprobar la materia debes entregar tanto el repositorio de ejercicios (completando todos los checkpoints de [EJERCICIO.md](EJERCICIO.md)) como el archivo ALUMNO.md con el enlace a tu repositorio.
 
@@ -260,19 +260,19 @@ git push          # Repite el push (asegúrate de que no hay errores)
 
 Antes de subir tu archivo, verifica:
 
-- [ ] Creé `ALUMNO.md` en la carpeta raíz
-- [ ] Incluí mi nombre y número de control
-- [ ] Expliqué qué es Git con mis PROPIAS palabras
-- [ ] Definí: Repositorio, Commit, Rama
-- [ ] Listé al menos 5 comandos Git
-- [ ] Escribí una reflexión auténtica
-- [ ] Ejecuté `git add ALUMNO.md`
-- [ ] Ejecuté `git commit` con buen mensaje
-- [ ] Ejecuté `git push`
-- [ ] **Verificación:** Abrí GitHub.com y vi `ALUMNO.md` en mi repositorio
-- [ ] Completé todos los ejercicios de [EJERCICIO.md](EJERCICIO.md) y marqué los checkpoints
-- [ ] Publiqué mi repositorio de ejercicios en GitHub y es público
-- [ ] Incluí el nombre y enlace público al repositorio en ALUMNO.md
+- [x] Creé `ALUMNO.md` en la carpeta raíz
+- [x] Incluí mi nombre y número de control
+- [x] Expliqué qué es Git con mis PROPIAS palabras
+- [x] Definí: Repositorio, Commit, Rama
+- [x] Listé al menos 5 comandos Git
+- [x] Escribí una reflexión auténtica
+- [x] Ejecuté `git add ALUMNO.md`
+- [x] Ejecuté `git commit` con buen mensaje
+- [x] Ejecuté `git push`
+- [x] **Verificación:** Abrí GitHub.com y vi `ALUMNO.md` en mi repositorio
+- [x] Completé todos los ejercicios de [EJERCICIO.md](EJERCICIO.md) y marqué los checkpoints
+- [x] Publiqué mi repositorio de ejercicios en GitHub y es público
+- [x] Incluí el nombre y enlace público al repositorio en ALUMNO.md
 Si completaste TODO → ✅ **¡ENTREGABLE COMPLETO!**
 
 ---
